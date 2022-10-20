@@ -1,9 +1,9 @@
 #menu {
-	background: #0099CC;
+	background: #00FFFF;
 	color: #FFF;
 	height: 45px;
-	padding-left: 18px;
-	border-radius: 10px;
+	padding-left: 20px;
+	border-radius: 15px;
 }
 #menu ul, #menu li {
 	margin: 0 auto;
@@ -21,7 +21,7 @@
 #menu a {
 	display: block;
 	line-height: 45px;
-	padding: 0 14px;
+	padding: 2 14px;
 	text-decoration: none;
 	color: #FFFFFF;
 	font-size: 16px;
